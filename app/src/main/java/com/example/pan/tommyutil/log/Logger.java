@@ -109,4 +109,8 @@ public class Logger {
     public static void xml(String xml) {
         printer.xml(xml);
     }
+	
+	
+	
+	
 }
